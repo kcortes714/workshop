@@ -3,9 +3,9 @@ title: "git_01"
 author: "Math_116"
 date: "Fall semester"
 output:
-  word_document: default
-  pdf_document: default
   html_document: default
+  pdf_document: default
+  word_document: default
 ---
 
 ```{r setup, include=FALSE}
